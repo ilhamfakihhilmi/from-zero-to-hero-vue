@@ -10,5 +10,6 @@ console.log('Hello Vue');
 .hello {
   color: greenyellow;
   background-color: black;
+  font-weight: normal;
 }
 </style>
