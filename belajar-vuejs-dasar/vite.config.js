@@ -9,7 +9,8 @@ export default defineConfig({
       input: {
         main: "main.js",
         hello: "hello.js",
+        counter: "counter.js",
       },
     },
-  }
+  },
 });
